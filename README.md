@@ -38,7 +38,7 @@ VAR PotentialSavings = CurrentAdValoremValue - TargetAdValoremValue
 
 RETURN
 IF(PotentialSavings > 0, PotentialSavings, 0)
-
+```
 ## Exploring the Model
 
 Click the image below to watch a full walkthrough of the dashboard's interactive features.
